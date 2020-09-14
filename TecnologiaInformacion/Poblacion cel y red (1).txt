@@ -1,4 +1,4 @@
-Desagregación	Población Total	Población de 5 años y más	Población que tiene teléfono celular activado	Población que tiene teléfono celular SMARTPHONE	Población que en su teléfono smartphone utiliza redes sociales
+Desagregacion	Poblacion Total	Poblacion de 5 aÃ±os y mas	Poblacion que tiene telefono celular activado	Poblacion que tiene telefono celular SMARTPHONE	Poblacion que en su telefono smartphone utiliza redes sociales
 dic-11	14478129	13311122	6209593	   522640	365427
 dic-12	14682556	13606550	6859698	   839705	641914
 dic-13	15872755	14530260	7453781	   1261944	1081620
