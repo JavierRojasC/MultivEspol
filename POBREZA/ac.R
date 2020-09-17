@@ -167,7 +167,8 @@ viv5<-hchart(cont_sit_prox, "item", hcaes(label=cont_sit_prox$Var1,colors = c('#
 viv5
 
 
-
+cont_cont_pon=table(datos_persona$condact,datos_persona$pobreza)
+cont_cont_pon1=data.frame(cont_cont_pon)
 
 viv6 <- hchart(cont_cont_pon1, "bar", hcaes(x=cont_cont_pon1$Var1,y=cont_cont_pon1$Freq,group=cont_cont_pon1$Var2)) %>% 
   hc_title(text ="Barras de  Condición Laboral según la Situación Socio-Económica")%>%
